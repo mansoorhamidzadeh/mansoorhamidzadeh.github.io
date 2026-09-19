@@ -1,7 +1,22 @@
-title: Mansoor’s Docs
-description: Personal site & documentation
+title: Mansoor Hamidzadeh
+description: Generative AI engineer moving into alignment research.
 theme: just-the-docs
 url: "https://mansoorhamidzadeh.github.io"
 
+search_enabled: true
+
 aux_links:
-  "GitHub Profile": "https://github.com/mansoorhamidzadeh"
+  "GitHub": "https://github.com/mansoorhamidzadeh"
+  "Research Lab": "https://github.com/mansoorhamidzadeh/research-lab"
+  "Hugging Face": "https://huggingface.co/mansoorhamidzadeh"
+  "LinkedIn": "https://www.linkedin.com/in/mansoorhamidzadeh"
+
+aux_links_new_tab: true
+
+footer_content: "© 2026 Mansoor Hamidzadeh"
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
